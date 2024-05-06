@@ -75,7 +75,8 @@ The Gale-Shapley algorithm is efficient due to its computational complexity, whi
 - It is relatively efficient fot SMP, esp considering the constraints of (1) stability and (2) mutual preference satisfaction  
 - SMP belong to a category of problems for which it has not been proven yet if polynomial time algorithms exist for solving them, therefore GS provides a relatively efficient solution to SMP despite running in quadratic time  
 
-
+**Deployment**
+Application is deployed locally and on the website: https://lfcollado.pythonanywhere.com/ 
 
 
 
